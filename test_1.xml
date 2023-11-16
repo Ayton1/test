@@ -1,0 +1,67 @@
+<yml_catalog date="2023-11-16 10:16">
+    <shop>
+        <name>StrategShop</name>
+        <company>ИП Щербак Александр Викторович</company>
+        <url>https://www.strategshop.ru</url>
+        <phone>8 499 110-42-48</phone>
+        <currencies>
+            <currency id="RUB" rate="1"/>
+        </currencies>
+        <categories>
+            <category id="1">Товары в обработке</category>
+        </categories>
+        <offers>
+            <offer id="23" available="true">
+                <price>320</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>11007</categoryId>
+                <picture>https://www.strategshop.ru/media/511/51139.jpg</picture>
+                <pickup>false</pickup>
+                <name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 95 г</name>
+                <vendor>Nescafe</vendor>
+                <description>NESCAFld. 100% натуральный кофе. Бленд кофе содержит зёрна арабики, перемолотые
+                </description>
+                <sales_notes>возможна оплата наличными</sales_notes>
+                <barcode>46204813</barcode>
+                <weight>0.355</weight>
+                <outlets>
+                    <outlet id="Склад в СПБ" instock="14"/>
+                </outlets>
+            </offer>
+            <offer id="28" available="true">
+                <price>535</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>11007</categoryId>
+                <picture>https://www.strategshop.ru/media/511/51137.jpg</picture>
+                <picture>https://www.strategshop.ru/media/511/51138.jpg</picture>
+                <pickup>false</pickup>
+                <name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 190 г</name>
+                <vendor>Nescafe</vendor>
+                <description>кофейными экспертами. Откройте для себя новый кофе</description>
+                <sales_notes>возможна оплата наличными</sales_notes>
+                <barcode>4600680000640</barcode>
+                <weight>0.001</weight>
+                <outlets>
+                    <outlet id="Склад в СПБ" instock="25"/>
+                </outlets>
+            </offer>
+            <offer id="29" available="true">
+                <price>179</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>11007</categoryId>
+                <picture>https://www.strategshop.ru/media/579/57931.jpg</picture>
+                <picture>https://www.strategshop.ru/media/579/57932.jpg</picture>
+                <pickup>false</pickup>
+                <name>Nescafe Кофе Нескафе Голд (Nescafe Gold) растворимый с добавлением молотого 47 г</name>
+                <vendor>Nescafe</vendor>
+                <description>ыми экспертами. Откройте для себя новый кофе</description>
+                <sales_notes>возможна оплата наличными</sales_notes>
+                <barcode>46204837</barcode>
+                <weight>0.21</weight>
+                <outlets>
+                    <outlet id="Склад в СПБ" instock="5"/>
+                </outlets>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
