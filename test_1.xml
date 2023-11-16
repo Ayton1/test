@@ -12,7 +12,7 @@
             <category id="1">Тестовая категория</category>
         </categories>
         <offers>
-            <offer id="smartphone17" available="true">
+            <offer id="149" available="true">
                 <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
                 <price>10000</price>
                 <vat>VAT_0</vat>
@@ -24,10 +24,10 @@
                 <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
                 <vendor>Nestle</vendor>
                 <outlets>
-                    <outlet id="1" instock="100"/>
+                    <outlet id="Склад в СПБ" instock="100"/>
                 </outlets>
             </offer>
-            <offer id="smartphone18" available="true">
+            <offer id="21" available="true">
                 <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
                 <price>10000</price>
                 <vat>VAT_0</vat>
@@ -39,10 +39,10 @@
                 <name>Nestle Кукурузные Хлопья Голд Флекс С МЁДОМ Нестле 300 г</name>
                 <vendor>Nestle</vendor>
                 <outlets>
-                    <outlet id="1" instock="100"/>
+                    <outlet id="Склад в СПБ" instock="100"/>
                 </outlets>
             </offer>
-            <offer id="smartphone19" available="true" group_id="57056255">
+            <offer id="23" available="true" group_id="57056255">
                 <url>https://www.strategshop.ru/catalog/detskaya-pizhama-pokemon-charmander/p57056255/m23380514/?utm_source=market.yandex.ru&amp;utm_campaign=m23380514</url>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
@@ -55,13 +55,13 @@
                 <param name="Размер кигуруми" unit="INT">135 см</param>
                 <weight>0.4</weight>
                 <outlets>
-                    <outlet id="1" instock="500"/>
+                    <outlet id="Склад в СПБ" instock="500"/>
                 </outlets>
                 <priceZones>
                     <priceZone id="1" price= "20000"/>
                 </priceZones>
             </offer>
-            <offer id="smartphone20" available="true" group_id="57056255">
+            <offer id="26" available="true" group_id="57056255">
                 <url>https://www.strategshop.ru/catalog/detskaya-pizhama-pokemon-charmander/p57056255/m23380514/?utm_source=market.yandex.ru&amp;utm_campaign=m23380514</url>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
@@ -75,14 +75,14 @@
                 <weight>0.4</weight>
                 <shipmentPeriod>пять</shipmentPeriod>
                 <outlets>
-                    <outlet id="1" instock="стопитсот"/>
+                    <outlet id="Склад в СПБ" instock="стопитсот"/>
                 </outlets>
                 <priceZones>
                     <priceZone id="1" price= "задублоны"/>
                 </priceZones>
                 <vat>ндс</vat>
             </offer>
-            <offer id="smartphone21" available="true" group_id="57056255">
+            <offer id="28" available="true" group_id="57056255">
                 <url>https://www.strategshop.ru/catalog/detskaya-pizhama-pokemon-charmander/p57056255/m23380514/?utm_source=market.yandex.ru&amp;utm_campaign=m23380514</url>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
@@ -96,14 +96,14 @@
                 <weight>0.4</weight>
                 <shipmentPeriod>пять</shipmentPeriod>
                 <outlets>
-                    <outlet id="1" instock="стопитсот"/>
+                    <outlet id="Склад в СПБ" instock="стопитсот"/>
                 </outlets>
                 <priceZones>
                     <priceZone id="1" price= "1000"/>
                 </priceZones>
                 <vat>ндс</vat>
             </offer>
-            <offer id="smartphone22" available="true" group_id="57056255">
+            <offer id="29" available="true" group_id="57056255">
                 <url>https://www.strategshop.ru/catalog/detskaya-pizhama-pokemon-charmander/p57056255/m23380514/?utm_source=market.yandex.ru&amp;utm_campaign=m23380514</url>
                 <currencyId>RUB</currencyId>
                 <categoryId>1</categoryId>
@@ -121,7 +121,7 @@
                     <priceZone id="1" price= "задублоны"/>
                 </priceZones>
             </offer>
-            <offer id="smartphone23" available="true">
+            <offer id="38" available="true">
                 <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
                 <price>задублоны</price>
                 <vat>VAT_0</vat>
@@ -134,7 +134,7 @@
                 <vendor>Nestle</vendor>
                 <instock>50</instock>
             </offer>
-            <offer id="smartphone24" available="true">
+            <offer id="39" available="true">
                 <url>https://scienceandtech.ru/wp-content/uploads/2020/02/smartfon-budushego-2.jpg</url>
                 <price>3000</price>
                 <vat>0</vat>
